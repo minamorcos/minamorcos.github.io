@@ -121,7 +121,7 @@ body{
 }
 #navigator li a:hover{
   color: blue;
-  background: #cccccc;
+  background: #999999;
 }
 /* ==========================================================================
    Helper classes
