@@ -103,10 +103,9 @@ body{
 
 .navigator {
   padding: 5px;
-  display: inline;
-  float: right;
-  font-size: 30px;
+  display: inline-block;
   list-style-type: none;
+  font-size: 30px;
   background-color: whitesmoke;
 }
 
