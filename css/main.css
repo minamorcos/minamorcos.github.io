@@ -101,7 +101,7 @@ body{
   background-color: floralwhite;
 }
 
-#navigator {
+.navigator {
   padding: 5px;
   display: inline;
   float: right;
@@ -110,18 +110,18 @@ body{
   background-color: whitesmoke;
 }
 
-#navigator li {
+.navigator li {
   display: inline;
 }
 
-#navigator li a {
+.navigator li a {
   color: black;
   text-decoration: none;
   padding: 10px 20px;
   font-size: 30px;
 }
 
-#navigator li a:hover {
+.navigator li a:hover {
   color: blue;
   background: #999999;
 }
