@@ -102,6 +102,7 @@ body{
 }
 
 .navigator {
+  float: left;
   padding: 5px;
   display: inline-block;
   list-style-type: none;
