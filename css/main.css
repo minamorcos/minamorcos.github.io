@@ -98,8 +98,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
-  background-color: floralwhite;
-  color:
+  background-color: whitesmoke;
 }
 
 .navigator {
@@ -108,7 +107,7 @@ body{
   display: inline-block;
   text-align: center;
   font-size: 30px;
-  background-color: black ;
+  background-color: lightgray ;
 }
 
 .navigator li {
@@ -116,7 +115,7 @@ body{
 }
 
 .navigator li a {
-  color: lightsalmon;
+  color: black;
   text-align: center;
   text-decoration: none;
   padding: 10px 20px;
@@ -129,8 +128,8 @@ body{
 }
 
 .navigator a.active {
-  background-color: lightcoral;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 /* ==========================================================================
