@@ -101,7 +101,7 @@ body{
   background-color: floralwhite;
 }
 
-.main_menu {
+#navigator {
   padding: 5px;
   display: inline;
   float: right;
@@ -109,17 +109,17 @@ body{
   list-style-type: none;
   background-color: whitesmoke;
 }
-.main_menu li {
+#navigator li {
   display: inline;
 }
 
-.main_menu li a {
+#navigator li a {
   color:black;
   text-decoration: none;
   padding: 10px 20px;
   font-size: 30px;
 }
-.main_menu li a:hover{
+#navigator li a:hover{
   color: blue;
   background: #cccccc;
 }
