@@ -104,7 +104,6 @@ body{
 .navigator {
   position: relative;
   padding: 5px;
-  display: inline-block;
   text-align: center;
   font-size: 30px;
   background-color: lightgray ;
@@ -130,6 +129,7 @@ body{
 .navigator a.active {
   background-color: black;
   color: white;
+  display:
 }
 
 /* ==========================================================================
