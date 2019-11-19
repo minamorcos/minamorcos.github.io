@@ -101,8 +101,8 @@ body{
   background-color: floralwhite;
 }
 
-#navigation{
-  margin: 0;
+#main_menu {
+  margin: 0px;
   padding: 5px;
   display: inline;
   float: right;
@@ -110,20 +110,18 @@ body{
   list-style-type: none;
   background-color: whitesmoke;
 }
-
-#navigation li{
+#main_menu li {
   display: inline;
 }
 
-#navigation li a{
+#main_menu li a {
   color:black;
   text-decoration: none;
   padding: 10px 20px;
   font-size: 30px;
 }
-
-#navigation li a:hover{
-  color:blue;
+#main_menu li a:hover{
+  color: blue;
   background: #cccccc;
 }
 /* ==========================================================================
