@@ -175,6 +175,37 @@ body{
   background: #cccccc;
 }
 
+<!-- About Page -->
+
+.about_photos{
+  padding-bottom: 40px;
+  height: 100px;
+  width: 100px;
+  padding-left:20px;
+  padding-top: 25px;
+  float: left;
+}
+
+.about_wrap {
+  width: 1000px;
+  height: 310px;
+  border: 1px solid black;
+  word-wrap: break-word;
+  padding: 20px;
+  padding-left: 340px;
+}
+
+
+#about_content{
+  padding-left: 23%;
+  padding-top: 1%;
+  padding-bottom: ;
+}
+
+#about_content p{
+  font-size:25px
+}
+
 #footer{
   float: right;
 }
