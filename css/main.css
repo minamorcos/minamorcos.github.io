@@ -178,8 +178,8 @@ body{
 .about_photos{
   height: 300px;
   width: 300px;
-  padding-left: 500px;
-  padding-top: 500px;
+  padding-left: 1%;
+  padding-top: 1%;
   float: left;
 }
 
