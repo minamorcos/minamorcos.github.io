@@ -152,7 +152,7 @@ body{
 }
 
 #content p{
-  padding-left: 12px;
+  padding-left: 30px;
   padding-right: 12px;
   padding-bottom: 12px;
 }
@@ -175,29 +175,25 @@ body{
   background: #cccccc;
 }
 
-<!-- About Page -->
-
 .about_photos{
-  height: 20%;
-  width: 20%;
+  height: 300px;
+  width: 300px;
   padding-left:1.5%;
   padding-top: 1.5%;
   float: left;
 }
 
 .about_wrap {
-  width: 80%;
-  height: 310px;
+  width: 100%;
+  height: 330px;
   border: 3px solid black;
   word-wrap: break-word;
-  padding: 20px;
-  padding-left: 15%;
-  padding-bottom: 1.5%;
+  padding: 2%
 }
 
 
-#about_content{
-  padding-left: 10%;
+#about_content p{
+  padding-left: 32%;
   padding-top: 1%;
   font-size: 23px;
 }
