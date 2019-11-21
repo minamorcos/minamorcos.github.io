@@ -178,22 +178,23 @@ body{
 .about_photos{
   height: 300px;
   width: 300px;
-  padding-left:1.5%;
-  padding-top: 1.5%;
+  padding-left: 1%;
+  padding-top: 1%;
   float: left;
 }
 
 .about_wrap {
   width: 80%;
-  height: 330px;
+  height: 17.5%;
   border: 3px solid black;
   word-wrap: break-word;
-  padding: 2%
+  padding: .5% .1%
+
 }
 
 
 #about_content p{
-  padding-left: 32px;
+  padding-left: 20%;
   padding-top: 1%;
   font-size: 23px;
 }
