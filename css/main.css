@@ -176,26 +176,24 @@ body{
 }
 
 .about_photos{
-  height: 300px;
-  width: 300px;
-  padding-left:1.5%;
-  padding-top: 1.5%;
   float: left;
+  height:300px;
+  width:300px;
+
 }
 
 .about_wrap {
-  width: 80%;
-  height: 330px;
+  padding: 20px;
   border: 3px solid black;
   word-wrap: break-word;
-  padding: 2%
+  height:40%;
+  overflow:auto;
+  width: 150%
+
 }
 
-
 #about_content p{
-  padding-left: 32px;
-  padding-top: 1%;
-  font-size: 23px;
+  font-size: 175%;
 }
 
 #footer{
