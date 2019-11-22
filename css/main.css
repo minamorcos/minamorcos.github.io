@@ -184,6 +184,7 @@ body{
 }
 
 .about_wrap {
+  margin-left: 1%;
   padding: 20px;
   border: 3px solid black;
   word-wrap: break-word;
