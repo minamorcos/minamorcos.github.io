@@ -177,7 +177,11 @@ body{
 }
 
 #footer{
-  float: right;
+  float:right;
+  margin: 1%;
+  padding: 1%;
+}
+
 }
 /* Project Page */
 .projects_top h1{
