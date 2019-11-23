@@ -179,13 +179,16 @@ body{
 #footer{
   float: right;
 }
-/* About Page */
+/* Projects Page */
 .projects_photos{
   float: left;
   height:300px;
   width:300px;
   padding-right: 20px;
 
+}
+#projects_content p{
+  font-size: 160%;
 }
 
 .projects_wrap {
@@ -198,10 +201,15 @@ body{
   width: 90%
 }
 
-#projects_content p{
-  font-size: 160%;
+.projects_wrap h4{
+  padding: 20px;
+  float: right;
 }
 
+.projects_wrap h4:hover{
+  color: blue;
+  background: #cccccc;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
