@@ -131,55 +131,16 @@ body{
   color: white;
 }
 
-#home_picture img {
-  width: 1400px;
-  height: 700px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 15px;
-}
-
-#content{
-  text-indent: 50px;
-  text-align: left;
-  padding-left: 140px;
-  font-family: unset;
-}
-
-#content h2{
+/* Project Page */
+.projects_top h1{
+  margin:3%;
   text-align: center;
-  margin: 5px;
 }
 
-#content p{
-  padding-left: 30px;
-  padding-right: 12px;
-  padding-bottom: 12px;
+.projects_top p{
+  margin: 3%;
 }
 
-.wrap{
-  width: 465px;
-  height: 400px;
-  border: 1px solid black;
-  word-wrap: break-word;
-  float:left;
-}
-
-.wrap h4 {
-  padding: 20px;
-  float: right;
-}
-
-.wrap h4:hover {
-  color: blue;
-  background: #cccccc;
-}
-
-#footer{
-  float: right;
-}
-/* Projects Page */
 .projects_photos{
   float: left;
   height:300px;
@@ -189,6 +150,25 @@ body{
 }
 #projects_content p{
   font-size: 160%;
+}
+
+#projects_content a:link{
+  text-decoration:none;
+}
+
+.projects_wrap a:hover{
+  color:blue
+}
+
+.projects_wrap h3:hover{
+  color: blue;
+  background:#cccccc;
+}
+
+.projects_wrap h3{
+  float: right;
+  margin: 1%;
+  padding: 1%
 }
 
 .projects_wrap {
@@ -201,15 +181,6 @@ body{
   width: 90%
 }
 
-.projects_wrap h4{
-  padding: 20px;
-  float: right;
-}
-
-.projects_wrap h4:hover{
-  color: blue;
-  background: #cccccc;
-}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
