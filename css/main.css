@@ -97,6 +97,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/* Home Page */
 body{
   background-color: whitesmoke;
 }
@@ -175,7 +176,11 @@ body{
   background: #cccccc;
 }
 
-.about_photos{
+#footer{
+  float: right;
+}
+/* About Page */
+.projects_photos{
   float: left;
   height:300px;
   width:300px;
@@ -183,7 +188,7 @@ body{
 
 }
 
-.about_wrap {
+.projects_wrap {
   margin: 3%;
   padding: 20px;
   border: 3px solid black;
@@ -191,16 +196,12 @@ body{
   height:40%;
   overflow:auto;
   width: 90%
-
 }
 
-#about_content p{
+#projects_content p{
   font-size: 160%;
 }
 
-#footer{
-  float: right;
-}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
