@@ -107,6 +107,7 @@ body{
   text-align: center;
   font-size: 30px;
   background-color: lightgray ;
+  font-family: verdana;
 }
 
 .navigator li {
@@ -182,7 +183,6 @@ body{
   padding: 1%;
 }
 
-}
 /* Project Page */
 .projects_top h1{
   margin:3%;
@@ -200,11 +200,11 @@ body{
   padding-right: 20px;
 
 }
-#projects_content p{
+.projects_content p{
   font-size: 160%;
 }
 
-#projects_content a:link{
+.projects_content a:link{
   text-decoration:none;
 }
 
@@ -232,6 +232,14 @@ body{
   overflow:auto;
   width: 90%
 }
+
+/* Contact Page */
+.contact_top{
+  margin: 3%;
+  font-family: monospace;
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
