@@ -100,7 +100,7 @@ textarea {
 /* Home Page */
 body{
   /* whitesmoke */
-  background-color: black;
+  background-color: antiquewhite;
 }
 
 h1{
@@ -116,13 +116,14 @@ h3{
 }
 
 .navigator {
-  position: relative;
   padding: 5px;
   text-align: center;
   font-size: 30px;
   background-color: lightcyan;
   font-family: verdana;
   position:fixed;
+  top: 0;
+  width: 100%
 }
 
 .navigator li {
