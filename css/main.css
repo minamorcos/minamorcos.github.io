@@ -185,6 +185,7 @@ body{
 .wrap h4:hover {
   color: blue;
   background: #cccccc;
+  text-decoration: none;
 }
 
 #footer{
