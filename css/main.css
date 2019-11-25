@@ -113,6 +113,7 @@ h2{
 h3{
   font-family: "Times New Roman"
 }
+
 .navigator {
   position: relative;
   padding: 5px;
@@ -272,7 +273,7 @@ h3{
   border: 2px solid black;
   float:left;
   margin-right: 3%;
-  width: 50%;
+  width: 30%;
   margin-bottom: 2%;
 }
 .info_content h1{
