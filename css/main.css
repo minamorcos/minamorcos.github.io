@@ -240,6 +240,7 @@ h3{
 }
 
 .projects_wrap {
+  border-radius: 20px;
   margin: 3%;
   padding: 20px;
   border: 3px solid black;
