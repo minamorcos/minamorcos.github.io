@@ -99,7 +99,8 @@ textarea {
    ========================================================================== */
 /* Home Page */
 body{
-  background-color: green;
+  /* whitesmoke */
+  background: lightcyan;
 }
 
 h1{
