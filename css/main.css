@@ -101,6 +101,18 @@ textarea {
 body{
   background-color: whitesmoke;
 }
+
+h1{
+  font-family: monospace;
+}
+
+h2{
+  font-family: Arial;
+}
+
+h3{
+  font-family: "Times New Roman"
+}
 .navigator {
   position: relative;
   padding: 5px;
@@ -253,18 +265,6 @@ body{
 #resume_whole_wrap{ /* Main Wrap keeping all resume content on a straight line */
   margin-top: 3%;
   float:left;
-}
-
-#resume_whole_wrap h1{
-  font-family: monospace;
-}
-
-#resume_whole_wrap h2{
-  font-family: Arial;
-}
-
-#resume_whole_wrap h3{
-  font-family: "Times New Roman";
 }
 
 .resume_right_wrap{
