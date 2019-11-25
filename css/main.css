@@ -173,12 +173,17 @@ h3{
 }
 
 .wrap{
-  width: 465px;
-  height: 400px;
-  border: 1px solid black;
+  display:flex;
+  flex-wrap:nowrap;
   word-wrap: break-word;
-  float:left;
+  margin: 3% 5% 0 5%;
+
 }
+
+.box{
+  border: 3px solid black;
+  width: 33%;
+
 
 .wrap h4 {
   padding: 20px;
