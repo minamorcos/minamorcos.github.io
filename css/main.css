@@ -260,19 +260,20 @@ h3{
 /* Resume Page*/
 #resume_top_wrap {
   float:left;
-  margin: 0 0 0 3%;
+  width: 30%;
+  margin: 0 3% 0 3%;
 }
 
 #resume_whole_wrap{ /* Main Wrap keeping all resume content on a straight line */
   float:left;
+  margin-top: 1%
 }
 
 .resume_right_wrap{
   border-radius: 20px;
   border: 2px solid black;
-  float:left;
   margin-right: 3%;
-  width: 47%;
+  width: 800px;
   margin-bottom: 2%;
 }
 .info_content h1{
