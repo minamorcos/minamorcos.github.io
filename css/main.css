@@ -265,7 +265,8 @@ h3{
 
 #resume_whole_wrap{ /* Main Wrap keeping all resume content on a straight line */
   margin-top: 3%;
-  float:left;
+  float:right;
+  margin-right: 3%
 }
 
 .resume_right_wrap{
