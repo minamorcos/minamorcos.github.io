@@ -256,7 +256,7 @@ body{
 }
 
 #resume_whole_wrap h1{
-  font-family monospace;
+  font-family: monospace;
 }
 
 #resume_whole_wrap h2{
@@ -266,6 +266,7 @@ body{
 #resume_whole_wrap h3{
   font-family: "Times New Roman";
 }
+
 .resume_right_wrap{
   border-radius: 20px;
   border: 2px solid black;
@@ -274,7 +275,6 @@ body{
   width: 50%;
   margin-bottom: 2%;
 }
-
 .info_content h1{
   margin-left: 1%;
 }
