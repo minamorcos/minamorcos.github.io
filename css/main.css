@@ -325,6 +325,16 @@ body{
 .writings_content h4{
   font-size: 150%;
 }
+
+.writings_content hr{
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.writings_definitions hr{
+  border: 2px solid lightblue;
+  border-radius: 5px;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
