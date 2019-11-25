@@ -99,7 +99,8 @@ textarea {
    ========================================================================== */
 /* Home Page */
 body{
-  background-color: whitesmoke;
+  background-color: lightcyan;
+  /* whitesmoke */
 }
 
 h1{
@@ -332,7 +333,7 @@ body{
 }
 
 .writings_definitions hr{
-  border: 2px solid lightblue;
+  border: 2px solid dodgerblue;
   border-radius: 5px;
 }
 /* ==========================================================================
