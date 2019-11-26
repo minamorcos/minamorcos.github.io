@@ -220,6 +220,7 @@ h3{
 }
 
 .projects_wrap h3:hover{
+  border-radius: 20px;
   color: blue;
   background:#cccccc;
 }
