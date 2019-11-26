@@ -336,12 +336,11 @@ h3{
 
 .writings_content hr{
   border: 2px solid black;
-  border-radius: 5px;
 }
 
-.writings_definitions hr{
-  border: 1px solid dodgerblue;
-  border-radius: 5px;
+.writings_definitions hr {
+  border: 1px solid blue;
+  border-style: dashed;
 }
 
 /* Contact Page */
