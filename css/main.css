@@ -98,9 +98,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 /* Home Page */
-body{
-  /* whitesmoke */
-  background-color: antiquewhite;
+body {
+  margin:0 auto;
+  background: whitesmoke;
 }
 
 h1{
@@ -116,36 +116,32 @@ h3{
 }
 
 .navigator {
-  padding: 5px;
-  text-align: center;
-  font-size: 30px;
-  background-color: lightcyan;
-  font-family: verdana;
-  position:fixed;
-  top: 0;
-  width: 100%
+  background-color: gray;
+  position: fixed;
+  width: 100%;
+  text-align:center;
 }
 
-.navigator li {
-  display: inline;
-}
 
-.navigator li a {
-  color: black;
-  text-align: center;
+.navigator a {
+  color: #f2f2f2;
+  font-size: 175%;
+  color: white;
   text-decoration: none;
   padding: 5px 30px;
   font-size: 30px;
 }
 
-.navigator li a:hover {
-  color: blue;
-  background: #cccccc;
+.navigator a:hover {
+  border-radius: 30px;
+  color: lightcyan;
+  background: lightgray;
 }
 
-.navigator a.active {
+.navigator a.active{
+  border-radius: 30px;
   background-color: black;
-  color: white;
+  color: lightcyan;
 }
 
 #home_picture img {
@@ -155,10 +151,6 @@ h3{
   margin-left: auto;
   margin-right: auto;
   padding: 15px;
-}
-
-body{
-  background-color: whitesmoke;
 }
 
 .wrap{
