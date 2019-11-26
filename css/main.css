@@ -206,6 +206,10 @@ h3{
   padding-right: 20px;
 
 }
+
+.projects_content{
+  padding-top: 5%;
+}
 .projects_content p{
   font-size: 160%;
   font-family: candara;
