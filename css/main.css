@@ -176,6 +176,7 @@ h3{
 }
 
 .wrap h4:hover {
+  border-radius: 40px;
   color: blue;
   background: #cccccc;
   text-decoration: none;
