@@ -146,8 +146,8 @@ h3{
 }
 
 #home_picture img {
-  width: 1400px;
-  height: 700px;
+  width: 500%;
+  height: 300%;
   display: block;
   margin-left: auto;
   margin-right: auto;
