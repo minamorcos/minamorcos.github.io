@@ -232,6 +232,7 @@ h3{
   text-decoration:none;
 }
 
+
 .projects_wrap a:hover{
   color:blue
 }
@@ -258,6 +259,9 @@ h3{
   overflow:auto;
 }
 
+.projects_writings {
+padding-left: 320px;
+}
 /* Resume Page*/
 #resume_top_wrap {
   float:left;
